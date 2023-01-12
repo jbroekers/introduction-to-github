@@ -7,6 +7,7 @@
 
 # Communicate using Markdown
 ## let's see if it works
+### Beginning to understand the way of working
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
